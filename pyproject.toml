@@ -1,0 +1,11 @@
+[project]
+name = "sgau-operator-uav"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "pythonturtle>=0.3.2",
+    "requests>=2.32.5",
+]
